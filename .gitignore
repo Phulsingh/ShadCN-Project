@@ -25,3 +25,4 @@ dist-ssr
 /.vs/pro/FileContentIndex/793e8748-ff89-4e1d-8959-5504ede9118c.vsidx
 /.vs/pro/FileContentIndex/e94630f2-26c1-49c3-b4e8-fbed8b8218c1.vsidx
 /.vs/pro/FileContentIndex/b8f17d7c-777b-463a-8bed-8d181c3f446e.vsidx
+*.vsidx
